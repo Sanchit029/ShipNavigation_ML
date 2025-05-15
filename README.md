@@ -76,7 +76,8 @@ This project is a ship navigation and route optimization platform that leverages
 - `uielements.py`, `weatherDisplay.py`: UI and visualization components.
 
 ## Credits
-- Developed for SIH 2024 by [Your Team Name].
+- Developed for SIH 2024 by Shaksham! .
+- Team Members -> Vishal Srinivasan(Team Lead) , Kush Sharma , Aman Dagar
 - Uses data from Open-Meteo, OpenWeatherMap, and GEBCO.
 
 ---

@@ -1,0 +1,14 @@
+pygame
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+requests
+python-dotenv
+aiohttp
+shapely
+openmeteo-requests
+requests-cache
+retry-requests
+netCDF4 
